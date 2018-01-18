@@ -1,0 +1,2 @@
+# GroupManager
+Software Engineering Project
